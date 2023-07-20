@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/tAAZeGP.png)](https://www.canva.com)
 <h1 align="center">Hi 👋, I'm ABHISHEK P P</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate frontend web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiek12&label=Profile%20views&color=0e75b6&style=flat" alt="abiek12" /> </p>
