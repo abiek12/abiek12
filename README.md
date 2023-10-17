@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiek12&label=Profile%20views&color=0e75b6&style=flat" alt="abiek12" /> </p>
 
+<p align="left"> <a href="https://twitter.com/abi__ek12" target="blank"><img src="https://img.shields.io/twitter/follow/abi__ek12?logo=twitter&style=for-the-badge" alt="abi__ek12" /></a> </p>
+
 - 🌱 I’m currently learning **React js ,Node js ,Express js ,Mongo db ,**
 
 - 💬 Ask me about **MERN**
