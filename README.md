@@ -10,6 +10,7 @@
 
 <h3 align="left">Languages used:</h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Frameworks and Libraries used:</h3>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,jquery,flask,sklearn)](https://skillicons.dev)
