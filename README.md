@@ -9,14 +9,13 @@
 - 📫 How to reach me **abhishekkanichery@gmail.com**
 
 <h3 align="left">Languages used:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons=html,css,js,c,java,py)](https://skillicons.dev)
 
 <h3 align="left">Frameworks and Libraries used:</h3>
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,jquery,flask,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons=react,nodejs,express,bootstrap,jquery,flask,sklearn)](https://skillicons.dev)
 
 <h3 align="left">Tools and others:</h3>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite,postman,mongodb,postgres,netlify,firebase,figma,eclipse,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons=vscode,git,github,vite,postman,mongodb,postgres,netlify,firebase,figma,eclipse,linux)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiek12&show_icons=true&locale=en&layout=compact" alt="abiek12" /></p>
 
