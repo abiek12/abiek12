@@ -8,8 +8,8 @@
 
 - 📫 How to reach me **abhishekkanichery@gmail.com**
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,py)](https://skillicons.dev)
+<h3 align="left">Languages used:</h3>
+[(https://skillicons.dev/icons?i=html,css,js,c,java,py)](https://skillicons.dev)
 
 <h3 align="left">Frameworks and Libraries used:</h3>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,jquery,flask,sklearn)](https://skillicons.dev)
