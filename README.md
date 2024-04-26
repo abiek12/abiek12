@@ -1,10 +1,10 @@
 [![MasterHead](https://imgur.com/vutf9vr.png)]()
 <h1 align="center">Hi 👋, I'm ABHISHEK P P</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiek12&label=Profile%20views&color=0e75b6&style=flat" alt="abiek12" /> </p>
 
-- 🌱 I’m currently learning **React js ,Node js ,Express js ,Mongo db**
+- 📄 My Resume <a href="https://drive.google.com/file/d/1FDbvAaU60PgPBXWqBxcOIxzVvwPtYXL6/view?usp=drivesdk">
 
 - 📫 How to reach me **abhishekkanichery@gmail.com**
 
