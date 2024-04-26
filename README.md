@@ -1,6 +1,6 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abiek12&theme=highcontrast)
 
-[![](https://visitcount.itsvg.in/api?id=abiek12&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abiek12&icon=0&color=9)](https://visitcount.itsvg.in)
 ### **About me**
 
 `An enthusiastic and solution-oriented individual with 1 years of hands-on experience in application development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
@@ -28,5 +28,5 @@
 
 ### **Connect me**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpp)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abi_ek12)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpp)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abi_ek12)
