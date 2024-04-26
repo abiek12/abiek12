@@ -1,9 +1,9 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abiek12&theme=highcontrast)
 
-[![](https://visitcount.itsvg.in/api?id=abiek12&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abiek12&icon=5&color=8)](https://visitcount.itsvg.in)
 ### **About me**
 
-`An enthusiastic and solution-oriented individual with 1 years of hands-on experience in application development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
+`An enthusiastic self-taught developer with 1 years of hands-on experience in web development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
 
 - `📫 How to reach me` abhishekkanichery@gmail.com
 
