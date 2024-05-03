@@ -11,7 +11,7 @@
 
 ### **Languages used**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,c,java&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Frameworks and Libraries used**
 
