@@ -19,7 +19,7 @@
 
 ### **Others**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vscode,appwrite,eclipse,figma,md,mongodb,netlify,postgres,postman,vercel,vite,firebase,powershell,linux,notion,jest,stackoverflow&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vscode,eclipse,figma,md,mongodb,netlify,postgres,postman,vercel,vite,firebase,powershell,linux,notion,jest,stackoverflow&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **GitHub Stats**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abiek12&theme=highcontrast&hide_border=false)
