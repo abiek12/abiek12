@@ -7,7 +7,7 @@
 
 - `📫 How to reach me` abhishekkanichery@gmail.com
 
-- `📄 Know about my experiences` [Link to my Resume ](https://drive.google.com/file/d/1evtTISE7sHJNh9RBDjdKxEo8qAe_KvQs/view?usp=sharing)
+- `📄 Know about my experiences` [My Resume ](https://drive.google.com/file/d/1evtTISE7sHJNh9RBDjdKxEo8qAe_KvQs/view?usp=sharing)
 ### **Languages used**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python&theme=dark&perline=10)](https://skillicons.dev)
