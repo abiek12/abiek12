@@ -26,6 +26,6 @@
 
 ### **Connect me**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpp)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abi_ek12) 
-[![X](https://img.shields.io/badge/X-2CA5E0?style=flat&logo=X&logoColor=white)](https://x.com/abi_ek_dev) 
+[(https://img.shields.io/badge/X-2CA5E0?style=flat&logo=X&logoColor=white)](https://x.com/abi_ek_dev) 
