@@ -14,11 +14,11 @@
 
 ### **Frameworks and Libraries used**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask,nest&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask,nest,strapi,drizzle&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Tools and others**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vscode,eclipse,md,mongodb,firebase,postgres,postman,vercel,vite,powershell,linux,notion,jest,stackoverflow,strapi,hoppscotch,drizzle&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vscode,eclipse,md,mongodb,firebase,postgres,postman,vercel,vite,powershell,linux,notion,jest,stackoverflow,&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **GitHub Stats**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abiek12&theme=highcontrast&hide_border=false)
