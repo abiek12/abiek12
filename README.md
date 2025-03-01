@@ -14,7 +14,7 @@
 
 ### **Frameworks and Libraries used**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask,nest&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Others**
 
