@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,docker,vscode,eclipse,md,mongodb,postgres,npm,postman,vercel,powershell,linux,notion,jest,stackoverflow,&theme=dark&perline=10)](https://skillicons.dev)
 
-### **GitHub Stats**
+### **GitHub Stats** 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abiek12&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abiek12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
