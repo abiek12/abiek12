@@ -18,7 +18,7 @@
 
 ### **Tools and others**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,docker,kubernets,kafka,grpc,vscode,eclipse,md,mongodb,postgres,npm,postman,vercel,powershell,linux,notion,stackoverflow,&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,docker,Kubernetes,kafka,grpc,vscode,eclipse,md,mongodb,postgres,npm,postman,vercel,powershell,linux,notion,stackoverflow,&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **GitHub Stats** 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abiek12&theme=highcontrast&hide_border=false)
