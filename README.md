@@ -10,11 +10,11 @@
 - `📄 Know about my experiences:` [Resume](https://drive.google.com/file/d/1alaHup7fgm5Moq9B61SK5hftZYzyK6rg/view?usp=sharing)
 ### **Languages used**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,c&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Frameworks and Libraries used**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask,nest,graphql,prisma&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,express,tailwind,bootstrap,flask,nest,graphql,prisma,fastapi&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Tools and others**
 
