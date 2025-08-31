@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=abiek12&icon=5&color=9)](https://visitcount.itsvg.in)
 ### **About me**
 
-`An enthusiastic self-taught full-stack developer with hands-on experience in web development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
+`An passionate self-taught full-stack developer with hands-on experience in web development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
 
 - `📫 How to reach me:` abhishekkanichery@gmail.com
 
