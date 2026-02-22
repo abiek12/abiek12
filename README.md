@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=abiek12&icon=5&color=9)](https://visitcount.itsvg.in)
 ### **About me**
 
-`An passionate self-taught full-stack developer with hands-on experience in web development and technology integration. I build scalable backend systems, design robust database architectures and automate infrastructures with moderns devops practices - while crafting clean, responsive frontend experiences that bring products to life end-to-end.`
+`Passionate self-taught full-stack developer specializing in building scalable backend systems, designing robust database architectures, and automating infrastructure using modern DevOps practices. Experienced in crafting clean, responsive frontend interfaces and delivering end-to-end product solutions.`
 
 - `📫 Reach me:` abhishekkanichery@gmail.com
 
