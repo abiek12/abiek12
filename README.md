@@ -1,6 +1,6 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abiek12&theme=highcontrast) 
 
-[![](https://visitcount.itsvg.in/api?id=abiek12&icon=5&color=9)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=abiek12&icon=5&color=9)](https://visitcount.itsvg.in)
 ### **About me**
 
 `Passionate self-taught full-stack developer specializing in building scalable backend systems, designing robust database architectures, and automating infrastructure using modern DevOps practices. Experienced in crafting clean, responsive frontend interfaces and delivering end-to-end product solutions.`
