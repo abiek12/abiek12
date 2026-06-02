@@ -5,7 +5,7 @@
 
 `Passionate self-taught full-stack developer specializing in building scalable backend systems, designing robust database architectures, and automating infrastructure using modern DevOps practices. Experienced in crafting clean, responsive frontend interfaces and delivering end-to-end product solutions.`
 
-- `📫 Reach me:` abhishekkanichery@gmail.com
+- `📫 Reach me:` abhishekkanichery@gmail.com 
 
 - `📄 Know about my experiences:` [Resume](https://drive.google.com/file/d/1wPsxoQ4FeGq9vPrXdSU4z7e6nKghQAhp/view?usp=sharing)
 ### **Languages used**
